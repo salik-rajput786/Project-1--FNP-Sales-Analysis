@@ -200,7 +200,7 @@ It serves as a solid example of applying **data analytics techniques** to solve 
 
 **Mohd Salik**
 📍 Ahmedabad, India
-🎓 B.Tech – Information Technology
+🎓 B.Tech – Computer Science 
 💡 Aspiring Data Analyst / Software Developer
 
 ---
